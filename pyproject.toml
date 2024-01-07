@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "fastapi-template"
+version = "1.0"
+description = "api template with fastapi in py3.11"
+authors = ["miyago9267 <miyagomizugen@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
