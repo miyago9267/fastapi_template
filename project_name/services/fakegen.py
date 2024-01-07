@@ -1,3 +1,4 @@
+"""Fake data generator"""
 from faker import Faker
 from project_name.models.people import People, Job
 
